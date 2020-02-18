@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'sherwoodregular';
+    src: url('../fonts/sherwood-webfont.woff2') format('woff2'),
+    url('../fonts/sherwood-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.site-heading h1 {
+    font-family: 'sherwoodregular', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
+}
